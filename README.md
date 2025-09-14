@@ -1,3 +1,3 @@
-all the project which have been made by me are here
+ALL THE PROJECTS WHICH HAVE BEEN MADE BY ME ARE HERE
 <br>
 1.NETFLIX CLONE
